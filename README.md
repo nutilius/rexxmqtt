@@ -6,6 +6,7 @@ Currently only sending is implemented.
 Only TCPI (without TLS).
 
 Call as
+  
   sendmqtt mqtt://host<:port>/topic-path <feeding-method> <additional args>
  
 Four metods of feeding data available:
